@@ -1,4 +1,4 @@
-# Collections
+# 服务器端配置部署方案
 
 https://www.igfw.net/archives/13474#more-13474
 
